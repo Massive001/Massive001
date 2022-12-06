@@ -36,3 +36,8 @@ A Software Engineer in the making 💬 Full-Stack Web Developer 💻,  and Desig
 - My Github Account Username is : @massive001
 - My Linkdin Address is : www.linkedin.com/in/sodiq-ariyo-1174651aa
 - Email: a.asodiq1606@gmail.com
+<br>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Massive001)](https://github.com/Massive001)
+
+<br>
