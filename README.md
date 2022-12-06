@@ -1,10 +1,10 @@
  <p align="center">
-<img width="1000px" height="2000%" src="" alt="my banner"
+<img width="1000px" height="2000%" src="https://user-images.githubusercontent.com/111055956/205994880-14509713-a845-499c-9f6c-2ee03164a2af.png" alt="my banner"
 
 <P/>
- 
-### Hi there 👋
-- My name is Sodiq Adesola Ariyo.
+ <h3 align="center">
+Hi there👋, I'm Sodiq Adesola Ariyo😄
+</h3>
 - A Computer Software Engineer || I am A graduate and a Computer Engineering Technology. || A student of ALX Africa (Holberton School)
 ### 👀 I’m interested in...
 - Software Engineering
