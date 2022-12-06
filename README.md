@@ -11,19 +11,14 @@ A Software Engineer in the making 💬 Full-Stack Web Developer 💻,  and Desig
 
 ### 👀 I’m interested in...
 - Software Engineering
-- C, C++ C# Programming
-- Phyton programming
-- Html 5
 - Data Management
 - Web Development
 - Linux Security
 ### 🌱 I’m currently learning...
-- Software Engineering
 - C/C#
 - Phyton
 - HTML
 ### 💞️ I’m looking to collaborate on...
- - C, C++
  - Front End Web-development
  - Data Structruing and analysis
  - Software Development All ICT software apporved jobs
