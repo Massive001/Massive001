@@ -5,7 +5,10 @@
  <h3 align="center">
 Hi there👋, I'm Sodiq Adesola Ariyo😄
 </h3>
-- A Computer Software Engineer || I am A graduate and a Computer Engineering Technology. || A student of ALX Africa (Holberton School)
+<h2 align="center">
+A Software Engineer in the making 💬 Full-Stack Web Developer 💻,  and Designer 🎨!
+</h2>
+
 ### 👀 I’m interested in...
 - Software Engineering
 - C, C++ C# Programming
