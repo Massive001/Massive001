@@ -27,6 +27,11 @@ A Software Engineer in the making 💬 Full-Stack Web Developer 💻,  and Desig
  - Front End Web-development
  - Data Structruing and analysis
  - Software Development All ICT software apporved jobs
+
+<!--- Computer jokes --->
+### wanna hear a joke?😅
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### 📫 How to reach me ...
 - My Github Account Username is : @massive001
 - My Linkdin Address is : www.linkedin.com/in/sodiq-ariyo-1174651aa
