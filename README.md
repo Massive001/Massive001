@@ -6,22 +6,22 @@
 Hi there👋, I'm Sodiq Adesola Ariyo😄
 </h3>
 <h2 align="center">
-A Software Engineer in the making 💬 Full-Stack Web Developer 💻,  and Designer 🎨!
+A Cybersecurity ethusiast, expertise in Linux🐧, Burpsuites and python🐍. I'm ISC2 CC certified, Oracle cloud foundation associate, and also a certified purple teaming associate!
 </h2>
 
 ### 👀 I’m interested in...
-- Software Engineering
-- Data Management
-- Web Development
+- System and network security
+- Networking
+- Pentesting
 - Linux Security
 ### 🌱 I’m currently learning...
-- C/C#
+- Burpsuites
 - Phyton
-- HTML
+- Splunk
 ### 💞️ I’m looking to collaborate on...
- - Front End Web-development
- - Data Structruing and analysis
- - Software Development All ICT software apporved jobs
+ - Cybersecurity project 
+ - Cybersecurity Article review
+ - Pentesting
 
 <!--- Computer jokes --->
 ### wanna hear a joke?😅
